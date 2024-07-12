@@ -1,0 +1,11 @@
+{
+    "config_file": "input.json",
+    "src_dir": "data",
+    "filenames": ["/Users/macos/Desktop/yolo_video_detect/src/video/video_pose1.mp4"],
+    "dest_dir": "out_data",
+    "mode": "inference",
+    "data":{
+        "bboxs": [],
+        "ids":[]
+    }
+}
